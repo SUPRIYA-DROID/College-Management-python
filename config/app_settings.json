@@ -1,0 +1,17 @@
+{
+    "auto_save_interval": "5",
+    "session_timeout": "30",
+    "default_semester": "1",
+    "font_size": "12",
+    "window_size": "1024x768",
+    "college_info": {
+        "name": "Sample College",
+        "address": "",
+        "phone": "",
+        "email": "",
+        "website": "",
+        "academic_year": "2024-25",
+        "grading_system": "Letter Grade"
+    },
+    "last_updated": "2024-01-01T00:00:00"
+}
